@@ -2,6 +2,10 @@
 
 ## How to start
 
+首先确保已经安装了 graphviz 并正确设置环境变量
+
+若未安装则需要先在官港选择合适版本下载安装并将其目录下的`bin`目录添加至系统 PATH 环境变量中
+
 ```bash
 pip install -r requirements.txt
 ```
